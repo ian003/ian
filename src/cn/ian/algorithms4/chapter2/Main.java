@@ -8,7 +8,7 @@ public class Main {
 
         Integer[] arr = {3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48, 2};
         // 2 2 3 4 5 15 19 26 27 36 38 44 46 47 48 50
-        Bubble.sort(arr);
+       /* Bubble.sort(arr);
         print(arr);
         Selection.sort1(arr);
         print(arr);
@@ -21,6 +21,10 @@ public class Main {
         Merge.sort1(arr);
         print(arr);
         Shell.sort(arr);
+        print(arr);
+        Quick.sort(arr);
+        print(arr); */
+        Heap.sort(arr);
         print(arr);
 
     }
