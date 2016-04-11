@@ -1,7 +1,6 @@
 package cn.ian.algorithms4.chapter1;
 
 import java.util.Arrays;
-import java.util.Stack;
 
 /**
  * Created by Ian on 2016/3/5.
